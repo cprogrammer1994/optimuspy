@@ -1,2 +1,3 @@
-# PyOptimus
+# optimuspy
+
 Python Launcher with Optimus Enablement
