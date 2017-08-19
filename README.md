@@ -1,6 +1,6 @@
 # optimuspy
 
-Python Launcher with Optimus Enablement
+Python Launcher with Optimus Enablement and AMD equivalent
 
 ## Problem & Solution
 
